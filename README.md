@@ -1,11 +1,14 @@
-## Hi there 👋 welcome to kaima's repository where i will showcase exciting codes
-
+## Hi there 👋 
+welcome to my repository where i will be **attempting** to showcase exciting codes
+I'm currently a student at Leeds Beckett university, where i am studying software engineering
+I'm looking to work on various projects over the course of my stay here(hopefully something worthy enough to showcas ;) 
+If you would like to reach me for any reaon, you may contct me at my email provided below
 <!--
 **kaima-0/kaima-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
