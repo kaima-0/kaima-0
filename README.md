@@ -1,8 +1,9 @@
 ## Hi there 👋 
-welcome to my repository where i will be **attempting** to showcase exciting codes
-I'm currently a student at Leeds Beckett university, where i am studying software engineering
+welcome to my repository where i will be **attempting** to show some exciting codes.
+I'm currently a student at Leeds Beckett university, where i am studying software engineering.
 I'm looking to work on various projects over the course of my stay here(hopefully something worthy enough to showcas ;) 
 If you would like to reach me for any reaon, you may contct me at my email provided below
+kaimaosondu0@gmail.com
 <!--
 **kaima-0/kaima-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
